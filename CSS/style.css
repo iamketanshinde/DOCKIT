@@ -23,3 +23,20 @@ margin: 7px 7px;
 list-style: none;
 color: blueviolet;
 }
+.sidebar{
+    width: 50%;
+    text-align: center;
+}  
+  h1:hover {
+    color:rgb(251, 6, 182);
+  }
+  button:hover {
+    color:rgb(252, 53, 4);
+  }
+.img{
+  position: relative;
+}
+.twenty{
+  width: 25%;
+  margin: 5% 5%;
+}
