@@ -31,7 +31,7 @@ color: blueviolet;
     color:rgb(251, 6, 182);
   }
   button:hover {
-    color:rgb(252, 53, 4);
+ color: rgb(232, 210, 5);
   }
 .img{
   position: relative;
@@ -46,4 +46,22 @@ color: blueviolet;
 .ten{
   width: 20%;
   margin-top: 30px;
+}
+.fifty{
+  width: 50%;
+}
+.like{
+  list-style-type: circle;
+  font-size: 15px;
+  text-align: left;color: #4c4c4c;
+}
+.room{
+  font-size: 15px;
+  margin: 1%;
+  text-align: left;
+  border-radius: 20px;
+  box-shadow: 2px 2px;
+  padding:2%;
+  background-color: rgb(2, 2, 233);
+
 }
